@@ -1,0 +1,9 @@
+C:\Users\Aamir Khan\Documents\Visual Studio 2015\Projects\Windows Form Application\Book Exercise\Chapter 3\Chapter3HandsOn\Chapter3HandsOn\bin\Debug\Chapter3HandsOn.exe.config
+C:\Users\Aamir Khan\Documents\Visual Studio 2015\Projects\Windows Form Application\Book Exercise\Chapter 3\Chapter3HandsOn\Chapter3HandsOn\bin\Debug\Chapter3HandsOn.exe
+C:\Users\Aamir Khan\Documents\Visual Studio 2015\Projects\Windows Form Application\Book Exercise\Chapter 3\Chapter3HandsOn\Chapter3HandsOn\bin\Debug\Chapter3HandsOn.pdb
+C:\Users\Aamir Khan\Documents\Visual Studio 2015\Projects\Windows Form Application\Book Exercise\Chapter 3\Chapter3HandsOn\Chapter3HandsOn\obj\Debug\Chapter3HandsOn.csprojResolveAssemblyReference.cache
+C:\Users\Aamir Khan\Documents\Visual Studio 2015\Projects\Windows Form Application\Book Exercise\Chapter 3\Chapter3HandsOn\Chapter3HandsOn\obj\Debug\Chapter3HandsOn.ClothingSalesForm.resources
+C:\Users\Aamir Khan\Documents\Visual Studio 2015\Projects\Windows Form Application\Book Exercise\Chapter 3\Chapter3HandsOn\Chapter3HandsOn\obj\Debug\Chapter3HandsOn.Properties.Resources.resources
+C:\Users\Aamir Khan\Documents\Visual Studio 2015\Projects\Windows Form Application\Book Exercise\Chapter 3\Chapter3HandsOn\Chapter3HandsOn\obj\Debug\Chapter3HandsOn.csproj.GenerateResource.Cache
+C:\Users\Aamir Khan\Documents\Visual Studio 2015\Projects\Windows Form Application\Book Exercise\Chapter 3\Chapter3HandsOn\Chapter3HandsOn\obj\Debug\Chapter3HandsOn.exe
+C:\Users\Aamir Khan\Documents\Visual Studio 2015\Projects\Windows Form Application\Book Exercise\Chapter 3\Chapter3HandsOn\Chapter3HandsOn\obj\Debug\Chapter3HandsOn.pdb

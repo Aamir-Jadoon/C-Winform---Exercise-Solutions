@@ -1,0 +1,9 @@
+C:\Users\Aamir Khan\Documents\Visual Studio 2015\Projects\Book Exercise\Chapter 4\HandsOnProgramming_Chapter4\HandsOnProgramming_Chapter4\bin\Debug\HandsOnProgramming_Chapter4.exe.config
+C:\Users\Aamir Khan\Documents\Visual Studio 2015\Projects\Book Exercise\Chapter 4\HandsOnProgramming_Chapter4\HandsOnProgramming_Chapter4\bin\Debug\HandsOnProgramming_Chapter4.exe
+C:\Users\Aamir Khan\Documents\Visual Studio 2015\Projects\Book Exercise\Chapter 4\HandsOnProgramming_Chapter4\HandsOnProgramming_Chapter4\bin\Debug\HandsOnProgramming_Chapter4.pdb
+C:\Users\Aamir Khan\Documents\Visual Studio 2015\Projects\Book Exercise\Chapter 4\HandsOnProgramming_Chapter4\HandsOnProgramming_Chapter4\obj\Debug\HandsOnProgramming_Chapter4.csprojResolveAssemblyReference.cache
+C:\Users\Aamir Khan\Documents\Visual Studio 2015\Projects\Book Exercise\Chapter 4\HandsOnProgramming_Chapter4\HandsOnProgramming_Chapter4\obj\Debug\HandsOnProgramming_Chapter4.JuiceBarForm.resources
+C:\Users\Aamir Khan\Documents\Visual Studio 2015\Projects\Book Exercise\Chapter 4\HandsOnProgramming_Chapter4\HandsOnProgramming_Chapter4\obj\Debug\HandsOnProgramming_Chapter4.Properties.Resources.resources
+C:\Users\Aamir Khan\Documents\Visual Studio 2015\Projects\Book Exercise\Chapter 4\HandsOnProgramming_Chapter4\HandsOnProgramming_Chapter4\obj\Debug\HandsOnProgramming_Chapter4.csproj.GenerateResource.Cache
+C:\Users\Aamir Khan\Documents\Visual Studio 2015\Projects\Book Exercise\Chapter 4\HandsOnProgramming_Chapter4\HandsOnProgramming_Chapter4\obj\Debug\HandsOnProgramming_Chapter4.exe
+C:\Users\Aamir Khan\Documents\Visual Studio 2015\Projects\Book Exercise\Chapter 4\HandsOnProgramming_Chapter4\HandsOnProgramming_Chapter4\obj\Debug\HandsOnProgramming_Chapter4.pdb
